@@ -1,7 +1,8 @@
 # QuranicAudio
 scraped data from [QuranicAudio](https://quranicaudio.com/)      
 contains collection of json objects to all readings info + links to all surahs.       
-you can find it the data (here)[https://github.com/TheMuslimDB/Sunnah/tree/data]      
+you can find the data (here)[https://github.com/TheMuslimDB/Sunnah/tree/data]        
+you can find the code (here)[https://github.com/TheMuslimDB/Sunnah/tree/code]        
 
 
 ## Process of getting the data 

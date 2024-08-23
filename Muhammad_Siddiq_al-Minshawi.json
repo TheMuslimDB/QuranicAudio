@@ -1,0 +1,919 @@
+{
+    "id": 6,
+    "name": "Muhammad Siddiq al-Minshawi",
+    "arabicName": "\u0645\u062d\u0645\u062f \u0635\u062f\u064a\u0642 \u0627\u0644\u0645\u0646\u0634\u0627\u0648\u064a",
+    "surahs": [
+        {
+            "file_name": "001.mp3",
+            "size": "841856",
+            "bitrate": "129602",
+            "duration": "51.965567",
+            "title": "Surat Al-Fatiha",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/001.mp3"
+        },
+        {
+            "file_name": "002.mp3",
+            "size": "131480641",
+            "bitrate": "128009",
+            "duration": "8216.928813",
+            "title": "Surat Al-Baqara",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/002.mp3"
+        },
+        {
+            "file_name": "003.mp3",
+            "size": "83327104",
+            "bitrate": "128016",
+            "duration": "5207.283125",
+            "title": "Surat Aal-E-Imran",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/003.mp3"
+        },
+        {
+            "file_name": "004.mp3",
+            "size": "82724992",
+            "bitrate": "128014",
+            "duration": "5169.745125",
+            "title": "Surat An-Nisa",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/004.mp3"
+        },
+        {
+            "file_name": "005.mp3",
+            "size": "64579712",
+            "bitrate": "128021",
+            "duration": "4035.560625",
+            "title": "Surat Al-Maeda",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/005.mp3"
+        },
+        {
+            "file_name": "006.mp3",
+            "size": "64036992",
+            "bitrate": "128021",
+            "duration": "4001.653689",
+            "title": "Surat Al-Anaam",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/006.mp3"
+        },
+        {
+            "file_name": "007.mp3",
+            "size": "69931136",
+            "bitrate": "128018",
+            "duration": "4370.058625",
+            "title": "Surat Al-Araf",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/007.mp3"
+        },
+        {
+            "file_name": "008.mp3",
+            "size": "28530816",
+            "bitrate": "128046",
+            "duration": "1782.525567",
+            "title": "Surat Al-Anfal",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/008.mp3"
+        },
+        {
+            "file_name": "009.mp3",
+            "size": "52012388",
+            "bitrate": "128024",
+            "duration": "3250.163067",
+            "title": "Surat At-Tawba",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/009.mp3"
+        },
+        {
+            "file_name": "010.mp3",
+            "size": "41666688",
+            "bitrate": "128030",
+            "duration": "2603.554125",
+            "title": "Surat Yunus",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/010.mp3"
+        },
+        {
+            "file_name": "011.mp3",
+            "size": "46039168",
+            "bitrate": "128029",
+            "duration": "2876.794938",
+            "title": "Surat Hud",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/011.mp3"
+        },
+        {
+            "file_name": "012.mp3",
+            "size": "43227264",
+            "bitrate": "128030",
+            "duration": "2701.069256",
+            "title": "Surat Yusuf",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/012.mp3"
+        },
+        {
+            "file_name": "013.mp3",
+            "size": "18475136",
+            "bitrate": "128072",
+            "duration": "1154.045567",
+            "title": "Surat Ar-Rad",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/013.mp3"
+        },
+        {
+            "file_name": "014.mp3",
+            "size": "17897600",
+            "bitrate": "128066",
+            "duration": "1118.022689",
+            "title": "Surat Ibrahim",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/014.mp3"
+        },
+        {
+            "file_name": "015.mp3",
+            "size": "13727872",
+            "bitrate": "128084",
+            "duration": "857.425125",
+            "title": "Surat Al-Hijr",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/015.mp3"
+        },
+        {
+            "file_name": "016.mp3",
+            "size": "35684480",
+            "bitrate": "128038",
+            "duration": "2229.611256",
+            "title": "Surat An-Nahl",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/016.mp3"
+        },
+        {
+            "file_name": "017.mp3",
+            "size": "30736512",
+            "bitrate": "128042",
+            "duration": "1920.399813",
+            "title": "Surat Al-Isra",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/017.mp3"
+        },
+        {
+            "file_name": "018.mp3",
+            "size": "33646720",
+            "bitrate": "128035",
+            "duration": "2102.342689",
+            "title": "Surat Al-Kahf",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/018.mp3"
+        },
+        {
+            "file_name": "019.mp3",
+            "size": "20252800",
+            "bitrate": "128058",
+            "duration": "1265.222689",
+            "title": "Surat Maryam",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/019.mp3"
+        },
+        {
+            "file_name": "020.mp3",
+            "size": "26036352",
+            "bitrate": "128048",
+            "duration": "1626.652878",
+            "title": "Surat Ta-Ha",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/020.mp3"
+        },
+        {
+            "file_name": "021.mp3",
+            "size": "27531392",
+            "bitrate": "128046",
+            "duration": "1720.092878",
+            "title": "Surat Al-Anbiya",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/021.mp3"
+        },
+        {
+            "file_name": "022.mp3",
+            "size": "26546304",
+            "bitrate": "128052",
+            "duration": "1658.470067",
+            "title": "Surat Al-Hajj",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/022.mp3"
+        },
+        {
+            "file_name": "023.mp3",
+            "size": "22634624",
+            "bitrate": "128053",
+            "duration": "1414.068438",
+            "title": "Surat Al-Mumenoon",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/023.mp3"
+        },
+        {
+            "file_name": "024.mp3",
+            "size": "28033152",
+            "bitrate": "128040",
+            "duration": "1751.518189",
+            "title": "Surat An-Noor",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/024.mp3"
+        },
+        {
+            "file_name": "025.mp3",
+            "size": "17313920",
+            "bitrate": "128069",
+            "duration": "1081.529625",
+            "title": "Surat Al-Furqan",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/025.mp3"
+        },
+        {
+            "file_name": "026.mp3",
+            "size": "25874560",
+            "bitrate": "128044",
+            "duration": "1616.595756",
+            "title": "Surat Ash-Shu'ara",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/026.mp3"
+        },
+        {
+            "file_name": "027.mp3",
+            "size": "23500928",
+            "bitrate": "128058",
+            "duration": "1468.141878",
+            "title": "Surat An-Naml",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/027.mp3"
+        },
+        {
+            "file_name": "028.mp3",
+            "size": "28401792",
+            "bitrate": "128041",
+            "duration": "1774.532067",
+            "title": "Surat Al-Qasas",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/028.mp3"
+        },
+        {
+            "file_name": "029.mp3",
+            "size": "19916928",
+            "bitrate": "128065",
+            "duration": "1244.168000",
+            "title": "Surat Al-Ankaboot",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/029.mp3"
+        },
+        {
+            "file_name": "030.mp3",
+            "size": "16541824",
+            "bitrate": "128078",
+            "duration": "1033.229256",
+            "title": "Surat Ar-Room",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/030.mp3"
+        },
+        {
+            "file_name": "031.mp3",
+            "size": "10147968",
+            "bitrate": "128118",
+            "duration": "633.660256",
+            "title": "Surat Luqman",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/031.mp3"
+        },
+        {
+            "file_name": "032.mp3",
+            "size": "7182464",
+            "bitrate": "128188",
+            "duration": "448.243125",
+            "title": "Surat As-Sajda",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/032.mp3"
+        },
+        {
+            "file_name": "033.mp3",
+            "size": "26529920",
+            "bitrate": "128051",
+            "duration": "1657.451256",
+            "title": "Surat Al-Ahzab",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/033.mp3"
+        },
+        {
+            "file_name": "034.mp3",
+            "size": "17281152",
+            "bitrate": "128068",
+            "duration": "1079.492067",
+            "title": "Surat Saba",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/034.mp3"
+        },
+        {
+            "file_name": "035.mp3",
+            "size": "16005248",
+            "bitrate": "128071",
+            "duration": "999.766378",
+            "title": "Surat Fatir",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/035.mp3"
+        },
+        {
+            "file_name": "036.mp3",
+            "size": "15251584",
+            "bitrate": "128074",
+            "duration": "952.667567",
+            "title": "Surat Ya-Seen",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/036.mp3"
+        },
+        {
+            "file_name": "037.mp3",
+            "size": "20070528",
+            "bitrate": "128058",
+            "duration": "1253.833313",
+            "title": "Surat As-Saaffat",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/037.mp3"
+        },
+        {
+            "file_name": "038.mp3",
+            "size": "15997056",
+            "bitrate": "128079",
+            "duration": "999.191689",
+            "title": "Surat Sad",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/038.mp3"
+        },
+        {
+            "file_name": "039.mp3",
+            "size": "24111232",
+            "bitrate": "128052",
+            "duration": "1506.332878",
+            "title": "Surat Az-Zumar",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/039.mp3"
+        },
+        {
+            "file_name": "040.mp3",
+            "size": "23013504",
+            "bitrate": "128054",
+            "duration": "1437.735378",
+            "title": "Surat Al-Ghafir",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/040.mp3"
+        },
+        {
+            "file_name": "041.mp3",
+            "size": "15538304",
+            "bitrate": "128080",
+            "duration": "970.535378",
+            "title": "Surat Fussilat",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/041.mp3"
+        },
+        {
+            "file_name": "042.mp3",
+            "size": "16218240",
+            "bitrate": "128072",
+            "duration": "1013.062689",
+            "title": "Surat Ash-Shura",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/042.mp3"
+        },
+        {
+            "file_name": "043.mp3",
+            "size": "16392320",
+            "bitrate": "128080",
+            "duration": "1023.877378",
+            "title": "Surat Az-Zukhruf",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/043.mp3"
+        },
+        {
+            "file_name": "044.mp3",
+            "size": "6905984",
+            "bitrate": "128176",
+            "duration": "431.028438",
+            "title": "Surat Ad-Dukhan",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/044.mp3"
+        },
+        {
+            "file_name": "045.mp3",
+            "size": "9324672",
+            "bitrate": "128141",
+            "duration": "582.146756",
+            "title": "Surat Al-Jathiya",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/045.mp3"
+        },
+        {
+            "file_name": "046.mp3",
+            "size": "11565184",
+            "bitrate": "128117",
+            "duration": "722.163125",
+            "title": "Surat Al-Ahqaf",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/046.mp3"
+        },
+        {
+            "file_name": "047.mp3",
+            "size": "10336384",
+            "bitrate": "128115",
+            "duration": "645.441500",
+            "title": "Surat Muhammad",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/047.mp3"
+        },
+        {
+            "file_name": "048.mp3",
+            "size": "11579520",
+            "bitrate": "128118",
+            "duration": "723.051256",
+            "title": "Surat Al-Fath",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/048.mp3"
+        },
+        {
+            "file_name": "049.mp3",
+            "size": "7510144",
+            "bitrate": "128151",
+            "duration": "468.827567",
+            "title": "Surat Al-Hujraat",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/049.mp3"
+        },
+        {
+            "file_name": "050.mp3",
+            "size": "7141504",
+            "bitrate": "128189",
+            "duration": "445.683125",
+            "title": "Surat Qaf",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/050.mp3"
+        },
+        {
+            "file_name": "051.mp3",
+            "size": "7016576",
+            "bitrate": "128171",
+            "duration": "437.950878",
+            "title": "Surat Adh-Dhariyat",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/051.mp3"
+        },
+        {
+            "file_name": "052.mp3",
+            "size": "6006912",
+            "bitrate": "128193",
+            "duration": "374.865125",
+            "title": "Surat At-Tur",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/052.mp3"
+        },
+        {
+            "file_name": "053.mp3",
+            "size": "6744192",
+            "bitrate": "128196",
+            "duration": "420.866756",
+            "title": "Surat An-Najm",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/053.mp3"
+        },
+        {
+            "file_name": "054.mp3",
+            "size": "7239808",
+            "bitrate": "128159",
+            "duration": "451.926378",
+            "title": "Surat Al-Qamar",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/054.mp3"
+        },
+        {
+            "file_name": "055.mp3",
+            "size": "8511616",
+            "bitrate": "128159",
+            "duration": "531.312500",
+            "title": "Surat Ar-Rahman",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/055.mp3"
+        },
+        {
+            "file_name": "056.mp3",
+            "size": "10027136",
+            "bitrate": "128114",
+            "duration": "626.137000",
+            "title": "Surat Al-Waqia",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/056.mp3"
+        },
+        {
+            "file_name": "057.mp3",
+            "size": "13654144",
+            "bitrate": "128087",
+            "duration": "852.801500",
+            "title": "Surat Al-Hadid",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/057.mp3"
+        },
+        {
+            "file_name": "058.mp3",
+            "size": "9535616",
+            "bitrate": "128125",
+            "duration": "595.390878",
+            "title": "Surat Al-Mujadila",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/058.mp3"
+        },
+        {
+            "file_name": "059.mp3",
+            "size": "9144448",
+            "bitrate": "128137",
+            "duration": "570.914125",
+            "title": "Surat Al-Hashr",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/059.mp3"
+        },
+        {
+            "file_name": "060.mp3",
+            "size": "7532672",
+            "bitrate": "128164",
+            "duration": "470.185938",
+            "title": "Surat Al-Mumtahina",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/060.mp3"
+        },
+        {
+            "file_name": "061.mp3",
+            "size": "4259968",
+            "bitrate": "128276",
+            "duration": "265.673313",
+            "title": "Surat As-Saff",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/061.mp3"
+        },
+        {
+            "file_name": "062.mp3",
+            "size": "3354752",
+            "bitrate": "128338",
+            "duration": "209.118189",
+            "title": "Surat Al-Jumua",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/062.mp3"
+        },
+        {
+            "file_name": "063.mp3",
+            "size": "3651712",
+            "bitrate": "128333",
+            "duration": "227.639000",
+            "title": "Surat Al-Munafiqoon",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/063.mp3"
+        },
+        {
+            "file_name": "064.mp3",
+            "size": "4587648",
+            "bitrate": "128257",
+            "duration": "286.153313",
+            "title": "Surat At-Taghabun",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/064.mp3"
+        },
+        {
+            "file_name": "065.mp3",
+            "size": "6006912",
+            "bitrate": "128220",
+            "duration": "374.786756",
+            "title": "Surat At-Talaq",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/065.mp3"
+        },
+        {
+            "file_name": "066.mp3",
+            "size": "5879936",
+            "bitrate": "128199",
+            "duration": "366.923938",
+            "title": "Surat At-Tahrim",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/066.mp3"
+        },
+        {
+            "file_name": "067.mp3",
+            "size": "6674560",
+            "bitrate": "128193",
+            "duration": "416.530438",
+            "title": "Surat Al-Mulk",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/067.mp3"
+        },
+        {
+            "file_name": "068.mp3",
+            "size": "6852736",
+            "bitrate": "128182",
+            "duration": "427.684756",
+            "title": "Surat Al-Qalam",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/068.mp3"
+        },
+        {
+            "file_name": "069.mp3",
+            "size": "6305920",
+            "bitrate": "128196",
+            "duration": "393.516567",
+            "title": "Surat Al-Haaqqa",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/069.mp3"
+        },
+        {
+            "file_name": "070.mp3",
+            "size": "5294208",
+            "bitrate": "128227",
+            "duration": "330.300256",
+            "title": "Surat Al-Maarij",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/070.mp3"
+        },
+        {
+            "file_name": "071.mp3",
+            "size": "5324928",
+            "bitrate": "128251",
+            "duration": "332.154938",
+            "title": "Surat Nooh",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/071.mp3"
+        },
+        {
+            "file_name": "072.mp3",
+            "size": "6033536",
+            "bitrate": "128198",
+            "duration": "376.510878",
+            "title": "Surat Al-Jinn",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/072.mp3"
+        },
+        {
+            "file_name": "073.mp3",
+            "size": "4356224",
+            "bitrate": "128274",
+            "duration": "271.681500",
+            "title": "Surat Al-Muzzammil",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/073.mp3"
+        },
+        {
+            "file_name": "074.mp3",
+            "size": "6000768",
+            "bitrate": "128205",
+            "duration": "374.447189",
+            "title": "Surat Al-Muddaththir",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/074.mp3"
+        },
+        {
+            "file_name": "075.mp3",
+            "size": "3774592",
+            "bitrate": "128351",
+            "duration": "235.266756",
+            "title": "Surat Al-Qiyama",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/075.mp3"
+        },
+        {
+            "file_name": "076.mp3",
+            "size": "6389888",
+            "bitrate": "128209",
+            "duration": "398.714938",
+            "title": "Surat Al-Insan",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/076.mp3"
+        },
+        {
+            "file_name": "077.mp3",
+            "size": "5058688",
+            "bitrate": "128222",
+            "duration": "315.619438",
+            "title": "Surat Al-Mursalat",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/077.mp3"
+        },
+        {
+            "file_name": "078.mp3",
+            "size": "5058688",
+            "bitrate": "128254",
+            "duration": "315.541067",
+            "title": "Surat An-Naba",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/078.mp3"
+        },
+        {
+            "file_name": "079.mp3",
+            "size": "4757632",
+            "bitrate": "128244",
+            "duration": "296.785125",
+            "title": "Surat An-Naziat",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/079.mp3"
+        },
+        {
+            "file_name": "080.mp3",
+            "size": "3788928",
+            "bitrate": "128297",
+            "duration": "236.259438",
+            "title": "Surat Abasa",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/080.mp3"
+        },
+        {
+            "file_name": "081.mp3",
+            "size": "2650240",
+            "bitrate": "128478",
+            "duration": "165.023500",
+            "title": "Surat At-Takwir",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/081.mp3"
+        },
+        {
+            "file_name": "082.mp3",
+            "size": "2072704",
+            "bitrate": "128591",
+            "duration": "128.948438",
+            "title": "Surat Al-Infitar",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/082.mp3"
+        },
+        {
+            "file_name": "083.mp3",
+            "size": "4554880",
+            "bitrate": "128277",
+            "duration": "284.063500",
+            "title": "Surat Al-Mutaffifin",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/083.mp3"
+        },
+        {
+            "file_name": "084.mp3",
+            "size": "2855040",
+            "bitrate": "128481",
+            "duration": "177.771256",
+            "title": "Surat Al-Inshiqaq",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/084.mp3"
+        },
+        {
+            "file_name": "085.mp3",
+            "size": "2879616",
+            "bitrate": "128436",
+            "duration": "179.364756",
+            "title": "Surat Al-Burooj",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/085.mp3"
+        },
+        {
+            "file_name": "086.mp3",
+            "size": "1689728",
+            "bitrate": "128684",
+            "duration": "105.046378",
+            "title": "Surat At-Tariq",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/086.mp3"
+        },
+        {
+            "file_name": "087.mp3",
+            "size": "1869952",
+            "bitrate": "128739",
+            "duration": "116.200625",
+            "title": "Surat Al-Ala",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/087.mp3"
+        },
+        {
+            "file_name": "088.mp3",
+            "size": "2418816",
+            "bitrate": "128553",
+            "duration": "150.525567",
+            "title": "Surat Al-Ghashiya",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/088.mp3"
+        },
+        {
+            "file_name": "089.mp3",
+            "size": "3655808",
+            "bitrate": "128374",
+            "duration": "227.821878",
+            "title": "Surat Al-Fajr",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/089.mp3"
+        },
+        {
+            "file_name": "090.mp3",
+            "size": "2109568",
+            "bitrate": "128637",
+            "duration": "131.194938",
+            "title": "Surat Al-Balad",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/090.mp3"
+        },
+        {
+            "file_name": "091.mp3",
+            "size": "1595520",
+            "bitrate": "128779",
+            "duration": "99.116567",
+            "title": "Surat Ash-Shams",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/091.mp3"
+        },
+        {
+            "file_name": "092.mp3",
+            "size": "2060416",
+            "bitrate": "128558",
+            "duration": "128.217000",
+            "title": "Surat Al-Lail",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/092.mp3"
+        },
+        {
+            "file_name": "093.mp3",
+            "size": "1128576",
+            "bitrate": "129094",
+            "duration": "69.937813",
+            "title": "Surat Ad-Dhuha",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/093.mp3"
+        },
+        {
+            "file_name": "094.mp3",
+            "size": "721024",
+            "bitrate": "129714",
+            "duration": "44.468438",
+            "title": "Surat Al-Inshirah",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/094.mp3"
+        },
+        {
+            "file_name": "095.mp3",
+            "size": "913536",
+            "bitrate": "129445",
+            "duration": "56.458625",
+            "title": "Surat At-Tin",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/095.mp3"
+        },
+        {
+            "file_name": "096.mp3",
+            "size": "1808512",
+            "bitrate": "128645",
+            "duration": "112.465125",
+            "title": "Surat Al-Alaq",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/096.mp3"
+        },
+        {
+            "file_name": "097.mp3",
+            "size": "790656",
+            "bitrate": "129464",
+            "duration": "48.857000",
+            "title": "Surat Al-Qadr",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/097.mp3"
+        },
+        {
+            "file_name": "098.mp3",
+            "size": "2476160",
+            "bitrate": "128479",
+            "duration": "154.182689",
+            "title": "Surat Al-Bayyina",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/098.mp3"
+        },
+        {
+            "file_name": "099.mp3",
+            "size": "1009792",
+            "bitrate": "129268",
+            "duration": "62.492878",
+            "title": "Surat Az-Zalzala",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/099.mp3"
+        },
+        {
+            "file_name": "100.mp3",
+            "size": "1071232",
+            "bitrate": "129143",
+            "duration": "66.359000",
+            "title": "Surat Al-Adiyat",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/100.mp3"
+        },
+        {
+            "file_name": "101.mp3",
+            "size": "1022080",
+            "bitrate": "129114",
+            "duration": "63.328813",
+            "title": "Surat Al-Qaria",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/101.mp3"
+        },
+        {
+            "file_name": "102.mp3",
+            "size": "809088",
+            "bitrate": "129708",
+            "duration": "49.901878",
+            "title": "Surat At-Takathur",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/102.mp3"
+        },
+        {
+            "file_name": "103.mp3",
+            "size": "448640",
+            "bitrate": "130939",
+            "duration": "27.410438",
+            "title": "Surat Al-Asr",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/103.mp3"
+        },
+        {
+            "file_name": "104.mp3",
+            "size": "911488",
+            "bitrate": "129514",
+            "duration": "56.301878",
+            "title": "Surat Al-Humaza",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/104.mp3"
+        },
+        {
+            "file_name": "105.mp3",
+            "size": "616576",
+            "bitrate": "130197",
+            "duration": "37.885567",
+            "title": "Surat Al-Fil",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/105.mp3"
+        },
+        {
+            "file_name": "106.mp3",
+            "size": "551040",
+            "bitrate": "130081",
+            "duration": "33.888813",
+            "title": "Surat Quraish",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/106.mp3"
+        },
+        {
+            "file_name": "107.mp3",
+            "size": "684160",
+            "bitrate": "129953",
+            "duration": "42.117378",
+            "title": "Surat Al-Maun",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/107.mp3"
+        },
+        {
+            "file_name": "108.mp3",
+            "size": "350336",
+            "bitrate": "131433",
+            "duration": "21.323938",
+            "title": "Surat Al-Kauther",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/108.mp3"
+        },
+        {
+            "file_name": "109.mp3",
+            "size": "743552",
+            "bitrate": "129802",
+            "duration": "45.826756",
+            "title": "Surat Al-Kafiroon",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/109.mp3"
+        },
+        {
+            "file_name": "110.mp3",
+            "size": "542848",
+            "bitrate": "130358",
+            "duration": "33.314125",
+            "title": "Surat An-Nasr",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/110.mp3"
+        },
+        {
+            "file_name": "111.mp3",
+            "size": "587904",
+            "bitrate": "130155",
+            "duration": "36.135378",
+            "title": "Surat Al-Masadd",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/111.mp3"
+        },
+        {
+            "file_name": "112.mp3",
+            "size": "313472",
+            "bitrate": "132541",
+            "duration": "18.920625",
+            "title": "Surat Al-Ikhlas",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/112.mp3"
+        },
+        {
+            "file_name": "113.mp3",
+            "size": "489600",
+            "bitrate": "130688",
+            "duration": "29.970438",
+            "title": "Surat Al-Falaq",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/113.mp3"
+        },
+        {
+            "file_name": "114.mp3",
+            "size": "624768",
+            "bitrate": "129956",
+            "duration": "38.460256",
+            "title": "Surat An-Nas",
+            "link": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/114.mp3"
+        }
+    ]
+}

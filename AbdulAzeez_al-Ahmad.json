@@ -1,0 +1,919 @@
+{
+    "id": 21,
+    "name": "AbdulAzeez al-Ahmad",
+    "arabicName": "\u0639\u0628\u062f\u0627\u0644\u0639\u0632\u064a\u0632 \u0627\u0644\u062d\u0645\u062f",
+    "surahs": [
+        {
+            "file_name": "001.mp3",
+            "size": "409728",
+            "bitrate": "131349",
+            "duration": "24.954938",
+            "title": "Surat Al-Fatiha",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/001.mp3"
+        },
+        {
+            "file_name": "002.mp3",
+            "size": "82903168",
+            "bitrate": "128015",
+            "duration": "5180.821067",
+            "title": "Surat Al-Baqara",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/002.mp3"
+        },
+        {
+            "file_name": "003.mp3",
+            "size": "49617024",
+            "bitrate": "128025",
+            "duration": "3100.455378",
+            "title": "Surat Aal-E-Imran",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/003.mp3"
+        },
+        {
+            "file_name": "004.mp3",
+            "size": "47890560",
+            "bitrate": "128024",
+            "duration": "2992.595756",
+            "title": "Surat An-Nisa",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/004.mp3"
+        },
+        {
+            "file_name": "005.mp3",
+            "size": "37120128",
+            "bitrate": "128030",
+            "duration": "2319.446378",
+            "title": "Surat Al-Maeda",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/005.mp3"
+        },
+        {
+            "file_name": "006.mp3",
+            "size": "38477952",
+            "bitrate": "128029",
+            "duration": "2404.318189",
+            "title": "Surat Al-Anaam",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/006.mp3"
+        },
+        {
+            "file_name": "007.mp3",
+            "size": "47040640",
+            "bitrate": "128028",
+            "duration": "2939.384313",
+            "title": "Surat Al-Araf",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/007.mp3"
+        },
+        {
+            "file_name": "008.mp3",
+            "size": "17807488",
+            "bitrate": "128070",
+            "duration": "1112.354125",
+            "title": "Surat Al-Anfal",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/008.mp3"
+        },
+        {
+            "file_name": "009.mp3",
+            "size": "35684480",
+            "bitrate": "128033",
+            "duration": "2229.689625",
+            "title": "Surat At-Tawba",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/009.mp3"
+        },
+        {
+            "file_name": "010.mp3",
+            "size": "24250496",
+            "bitrate": "128054",
+            "duration": "1515.005567",
+            "title": "Surat Yunus",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/010.mp3"
+        },
+        {
+            "file_name": "011.mp3",
+            "size": "26470528",
+            "bitrate": "128049",
+            "duration": "1653.768000",
+            "title": "Surat Hud",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/011.mp3"
+        },
+        {
+            "file_name": "012.mp3",
+            "size": "26566784",
+            "bitrate": "128047",
+            "duration": "1659.802313",
+            "title": "Surat Yusuf",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/012.mp3"
+        },
+        {
+            "file_name": "013.mp3",
+            "size": "13981824",
+            "bitrate": "128085",
+            "duration": "873.281500",
+            "title": "Surat Ar-Rad",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/013.mp3"
+        },
+        {
+            "file_name": "014.mp3",
+            "size": "13932672",
+            "bitrate": "128091",
+            "duration": "870.172878",
+            "title": "Surat Ibrahim",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/014.mp3"
+        },
+        {
+            "file_name": "015.mp3",
+            "size": "9502848",
+            "bitrate": "128129",
+            "duration": "593.327189",
+            "title": "Surat Al-Hijr",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/015.mp3"
+        },
+        {
+            "file_name": "016.mp3",
+            "size": "23648384",
+            "bitrate": "128054",
+            "duration": "1477.389256",
+            "title": "Surat An-Nahl",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/016.mp3"
+        },
+        {
+            "file_name": "017.mp3",
+            "size": "22759552",
+            "bitrate": "128055",
+            "duration": "1421.852878",
+            "title": "Surat Al-Isra",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/017.mp3"
+        },
+        {
+            "file_name": "018.mp3",
+            "size": "20787328",
+            "bitrate": "128059",
+            "duration": "1298.607189",
+            "title": "Surat Al-Kahf",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/018.mp3"
+        },
+        {
+            "file_name": "019.mp3",
+            "size": "13977728",
+            "bitrate": "128097",
+            "duration": "872.941878",
+            "title": "Surat Maryam",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/019.mp3"
+        },
+        {
+            "file_name": "020.mp3",
+            "size": "17877120",
+            "bitrate": "128063",
+            "duration": "1116.768813",
+            "title": "Surat Ta-Ha",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/020.mp3"
+        },
+        {
+            "file_name": "021.mp3",
+            "size": "18499712",
+            "bitrate": "128065",
+            "duration": "1155.639000",
+            "title": "Surat Al-Anbiya",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/021.mp3"
+        },
+        {
+            "file_name": "022.mp3",
+            "size": "19779712",
+            "bitrate": "128057",
+            "duration": "1235.678189",
+            "title": "Surat Al-Hajj",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/022.mp3"
+        },
+        {
+            "file_name": "023.mp3",
+            "size": "18294912",
+            "bitrate": "128072",
+            "duration": "1142.786756",
+            "title": "Surat Al-Mumenoon",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/023.mp3"
+        },
+        {
+            "file_name": "024.mp3",
+            "size": "20347008",
+            "bitrate": "128056",
+            "duration": "1271.126378",
+            "title": "Surat An-Noor",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/024.mp3"
+        },
+        {
+            "file_name": "025.mp3",
+            "size": "16185472",
+            "bitrate": "128078",
+            "duration": "1010.972878",
+            "title": "Surat Al-Furqan",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/025.mp3"
+        },
+        {
+            "file_name": "026.mp3",
+            "size": "21764224",
+            "bitrate": "128059",
+            "duration": "1359.629256",
+            "title": "Surat Ash-Shu'ara",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/026.mp3"
+        },
+        {
+            "file_name": "027.mp3",
+            "size": "21065856",
+            "bitrate": "128061",
+            "duration": "1315.978625",
+            "title": "Surat An-Naml",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/027.mp3"
+        },
+        {
+            "file_name": "028.mp3",
+            "size": "31414047",
+            "bitrate": "192054",
+            "duration": "1308.546589",
+            "title": "Al-Qasas",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/028.mp3"
+        },
+        {
+            "file_name": "029.mp3",
+            "size": "15134848",
+            "bitrate": "128084",
+            "duration": "945.301067",
+            "title": "Surat Al-Ankaboot",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/029.mp3"
+        },
+        {
+            "file_name": "030.mp3",
+            "size": "12294272",
+            "bitrate": "128094",
+            "duration": "767.825125",
+            "title": "Surat Ar-Room",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/030.mp3"
+        },
+        {
+            "file_name": "031.mp3",
+            "size": "9140352",
+            "bitrate": "128144",
+            "duration": "570.626756",
+            "title": "Surat Luqman",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/031.mp3"
+        },
+        {
+            "file_name": "032.mp3",
+            "size": "7059584",
+            "bitrate": "128169",
+            "duration": "440.641500",
+            "title": "Surat As-Sajda",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/032.mp3"
+        },
+        {
+            "file_name": "033.mp3",
+            "size": "21639296",
+            "bitrate": "128052",
+            "duration": "1351.897000",
+            "title": "Surat Al-Ahzab",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/033.mp3"
+        },
+        {
+            "file_name": "034.mp3",
+            "size": "13508736",
+            "bitrate": "128096",
+            "duration": "843.658625",
+            "title": "Surat Saba",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/034.mp3"
+        },
+        {
+            "file_name": "035.mp3",
+            "size": "13254784",
+            "bitrate": "128100",
+            "duration": "827.776189",
+            "title": "Surat Fatir",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/035.mp3"
+        },
+        {
+            "file_name": "036.mp3",
+            "size": "13561984",
+            "bitrate": "128086",
+            "duration": "847.054500",
+            "title": "Surat Ya-Seen",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/036.mp3"
+        },
+        {
+            "file_name": "037.mp3",
+            "size": "16191616",
+            "bitrate": "128083",
+            "duration": "1011.312500",
+            "title": "Surat As-Saaffat",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/037.mp3"
+        },
+        {
+            "file_name": "038.mp3",
+            "size": "12155008",
+            "bitrate": "128112",
+            "duration": "759.021878",
+            "title": "Surat Sad",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/038.mp3"
+        },
+        {
+            "file_name": "039.mp3",
+            "size": "20631680",
+            "bitrate": "128063",
+            "duration": "1288.837378",
+            "title": "Surat Az-Zumar",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/039.mp3"
+        },
+        {
+            "file_name": "040.mp3",
+            "size": "22444160",
+            "bitrate": "128057",
+            "duration": "1402.130438",
+            "title": "Surat Al-Ghafir",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/040.mp3"
+        },
+        {
+            "file_name": "041.mp3",
+            "size": "14491776",
+            "bitrate": "128090",
+            "duration": "905.098625",
+            "title": "Surat Fussilat",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/041.mp3"
+        },
+        {
+            "file_name": "042.mp3",
+            "size": "13338752",
+            "bitrate": "128099",
+            "duration": "833.026756",
+            "title": "Surat Ash-Shura",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/042.mp3"
+        },
+        {
+            "file_name": "043.mp3",
+            "size": "15659136",
+            "bitrate": "128083",
+            "duration": "978.058625",
+            "title": "Surat Az-Zukhruf",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/043.mp3"
+        },
+        {
+            "file_name": "044.mp3",
+            "size": "6453376",
+            "bitrate": "128206",
+            "duration": "402.685567",
+            "title": "Surat Ad-Dukhan",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/044.mp3"
+        },
+        {
+            "file_name": "045.mp3",
+            "size": "8509568",
+            "bitrate": "128154",
+            "duration": "531.208000",
+            "title": "Surat Al-Jathiya",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/045.mp3"
+        },
+        {
+            "file_name": "046.mp3",
+            "size": "9257088",
+            "bitrate": "128121",
+            "duration": "578.019438",
+            "title": "Surat Al-Ahqaf",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/046.mp3"
+        },
+        {
+            "file_name": "047.mp3",
+            "size": "10619008",
+            "bitrate": "128123",
+            "duration": "663.048000",
+            "title": "Surat Muhammad",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/047.mp3"
+        },
+        {
+            "file_name": "048.mp3",
+            "size": "8110208",
+            "bitrate": "128151",
+            "duration": "506.287189",
+            "title": "Surat Al-Fath",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/048.mp3"
+        },
+        {
+            "file_name": "049.mp3",
+            "size": "6078592",
+            "bitrate": "128195",
+            "duration": "379.332067",
+            "title": "Surat Al-Hujraat",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/049.mp3"
+        },
+        {
+            "file_name": "050.mp3",
+            "size": "7630976",
+            "bitrate": "128150",
+            "duration": "476.377000",
+            "title": "Surat Qaf",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/050.mp3"
+        },
+        {
+            "file_name": "051.mp3",
+            "size": "5906560",
+            "bitrate": "128232",
+            "duration": "368.491256",
+            "title": "Surat Adh-Dhariyat",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/051.mp3"
+        },
+        {
+            "file_name": "052.mp3",
+            "size": "6721664",
+            "bitrate": "128197",
+            "duration": "419.456189",
+            "title": "Surat At-Tur",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/052.mp3"
+        },
+        {
+            "file_name": "053.mp3",
+            "size": "4939904",
+            "bitrate": "128236",
+            "duration": "308.174500",
+            "title": "Surat An-Najm",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/053.mp3"
+        },
+        {
+            "file_name": "054.mp3",
+            "size": "6178944",
+            "bitrate": "128219",
+            "duration": "385.523125",
+            "title": "Surat Al-Qamar",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/054.mp3"
+        },
+        {
+            "file_name": "055.mp3",
+            "size": "8536192",
+            "bitrate": "128139",
+            "duration": "532.932067",
+            "title": "Surat Ar-Rahman",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/055.mp3"
+        },
+        {
+            "file_name": "056.mp3",
+            "size": "7628928",
+            "bitrate": "128179",
+            "duration": "476.141878",
+            "title": "Surat Al-Waqia",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/056.mp3"
+        },
+        {
+            "file_name": "057.mp3",
+            "size": "8773760",
+            "bitrate": "128137",
+            "duration": "547.769625",
+            "title": "Surat Al-Hadid",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/057.mp3"
+        },
+        {
+            "file_name": "058.mp3",
+            "size": "8525952",
+            "bitrate": "128161",
+            "duration": "532.200625",
+            "title": "Surat Al-Mujadila",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/058.mp3"
+        },
+        {
+            "file_name": "059.mp3",
+            "size": "9265280",
+            "bitrate": "128136",
+            "duration": "578.463500",
+            "title": "Surat Al-Hashr",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/059.mp3"
+        },
+        {
+            "file_name": "060.mp3",
+            "size": "6322304",
+            "bitrate": "128180",
+            "duration": "394.587567",
+            "title": "Surat Al-Mumtahina",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/060.mp3"
+        },
+        {
+            "file_name": "061.mp3",
+            "size": "4835456",
+            "bitrate": "128264",
+            "duration": "301.591689",
+            "title": "Surat As-Saff",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/061.mp3"
+        },
+        {
+            "file_name": "062.mp3",
+            "size": "3248256",
+            "bitrate": "128403",
+            "duration": "202.378625",
+            "title": "Surat Al-Jumua",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/062.mp3"
+        },
+        {
+            "file_name": "063.mp3",
+            "size": "4044928",
+            "bitrate": "128311",
+            "duration": "252.194125",
+            "title": "Surat Al-Munafiqoon",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/063.mp3"
+        },
+        {
+            "file_name": "064.mp3",
+            "size": "3696768",
+            "bitrate": "128311",
+            "duration": "230.486378",
+            "title": "Surat At-Taghabun",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/064.mp3"
+        },
+        {
+            "file_name": "065.mp3",
+            "size": "4364416",
+            "bitrate": "128305",
+            "duration": "272.125567",
+            "title": "Surat At-Talaq",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/065.mp3"
+        },
+        {
+            "file_name": "066.mp3",
+            "size": "5943424",
+            "bitrate": "128232",
+            "duration": "370.790067",
+            "title": "Surat At-Tahrim",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/066.mp3"
+        },
+        {
+            "file_name": "067.mp3",
+            "size": "5476480",
+            "bitrate": "128250",
+            "duration": "341.611256",
+            "title": "Surat Al-Mulk",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/067.mp3"
+        },
+        {
+            "file_name": "068.mp3",
+            "size": "6193280",
+            "bitrate": "128204",
+            "duration": "386.463500",
+            "title": "Surat Al-Qalam",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/068.mp3"
+        },
+        {
+            "file_name": "069.mp3",
+            "size": "6529152",
+            "bitrate": "128198",
+            "duration": "407.439813",
+            "title": "Surat Al-Haaqqa",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/069.mp3"
+        },
+        {
+            "file_name": "070.mp3",
+            "size": "3954816",
+            "bitrate": "128337",
+            "duration": "246.525567",
+            "title": "Surat Al-Maarij",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/070.mp3"
+        },
+        {
+            "file_name": "071.mp3",
+            "size": "4106368",
+            "bitrate": "128319",
+            "duration": "256.008000",
+            "title": "Surat Nooh",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/071.mp3"
+        },
+        {
+            "file_name": "072.mp3",
+            "size": "3747968",
+            "bitrate": "128300",
+            "duration": "233.699438",
+            "title": "Surat Al-Jinn",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/072.mp3"
+        },
+        {
+            "file_name": "073.mp3",
+            "size": "3479680",
+            "bitrate": "128371",
+            "duration": "216.850438",
+            "title": "Surat Al-Muzzammil",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/073.mp3"
+        },
+        {
+            "file_name": "074.mp3",
+            "size": "4550784",
+            "bitrate": "128256",
+            "duration": "283.854500",
+            "title": "Surat Al-Muddaththir",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/074.mp3"
+        },
+        {
+            "file_name": "075.mp3",
+            "size": "3342464",
+            "bitrate": "128382",
+            "duration": "208.282313",
+            "title": "Surat Al-Qiyama",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/075.mp3"
+        },
+        {
+            "file_name": "076.mp3",
+            "size": "4694144",
+            "bitrate": "128271",
+            "duration": "292.762313",
+            "title": "Surat Al-Insan",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/076.mp3"
+        },
+        {
+            "file_name": "077.mp3",
+            "size": "3704960",
+            "bitrate": "128348",
+            "duration": "230.930438",
+            "title": "Surat Al-Mursalat",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/077.mp3"
+        },
+        {
+            "file_name": "078.mp3",
+            "size": "3049600",
+            "bitrate": "128441",
+            "duration": "189.944313",
+            "title": "Surat An-Naba",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/078.mp3"
+        },
+        {
+            "file_name": "079.mp3",
+            "size": "2881664",
+            "bitrate": "128452",
+            "duration": "179.469256",
+            "title": "Surat An-Naziat",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/079.mp3"
+        },
+        {
+            "file_name": "080.mp3",
+            "size": "2209920",
+            "bitrate": "128537",
+            "duration": "137.542689",
+            "title": "Surat Abasa",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/080.mp3"
+        },
+        {
+            "file_name": "081.mp3",
+            "size": "1544320",
+            "bitrate": "128857",
+            "duration": "95.877378",
+            "title": "Surat At-Takwir",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/081.mp3"
+        },
+        {
+            "file_name": "082.mp3",
+            "size": "1243264",
+            "bitrate": "129010",
+            "duration": "77.095378",
+            "title": "Surat Al-Infitar",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/082.mp3"
+        },
+        {
+            "file_name": "083.mp3",
+            "size": "2891904",
+            "bitrate": "128404",
+            "duration": "180.174500",
+            "title": "Surat Al-Mutaffifin",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/083.mp3"
+        },
+        {
+            "file_name": "084.mp3",
+            "size": "1900672",
+            "bitrate": "128656",
+            "duration": "118.185938",
+            "title": "Surat Al-Inshiqaq",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/084.mp3"
+        },
+        {
+            "file_name": "085.mp3",
+            "size": "2117760",
+            "bitrate": "128624",
+            "duration": "131.717378",
+            "title": "Surat Al-Burooj",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/085.mp3"
+        },
+        {
+            "file_name": "086.mp3",
+            "size": "915584",
+            "bitrate": "129435",
+            "duration": "56.589256",
+            "title": "Surat At-Tariq",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/086.mp3"
+        },
+        {
+            "file_name": "087.mp3",
+            "size": "931968",
+            "bitrate": "129422",
+            "duration": "57.608000",
+            "title": "Surat Al-Ala",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/087.mp3"
+        },
+        {
+            "file_name": "088.mp3",
+            "size": "1773696",
+            "bitrate": "128679",
+            "duration": "110.270878",
+            "title": "Surat Al-Ghashiya",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/088.mp3"
+        },
+        {
+            "file_name": "089.mp3",
+            "size": "2535552",
+            "bitrate": "128448",
+            "duration": "157.918189",
+            "title": "Surat Al-Fajr",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/089.mp3"
+        },
+        {
+            "file_name": "090.mp3",
+            "size": "1063040",
+            "bitrate": "129070",
+            "duration": "65.888813",
+            "title": "Surat Al-Balad",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/090.mp3"
+        },
+        {
+            "file_name": "091.mp3",
+            "size": "786560",
+            "bitrate": "129625",
+            "duration": "48.543500",
+            "title": "Surat Ash-Shams",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/091.mp3"
+        },
+        {
+            "file_name": "092.mp3",
+            "size": "1316992",
+            "bitrate": "129011",
+            "duration": "81.666756",
+            "title": "Surat Al-Lail",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/092.mp3"
+        },
+        {
+            "file_name": "093.mp3",
+            "size": "622720",
+            "bitrate": "130148",
+            "duration": "38.277378",
+            "title": "Surat Ad-Dhuha",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/093.mp3"
+        },
+        {
+            "file_name": "094.mp3",
+            "size": "370816",
+            "bitrate": "131543",
+            "duration": "22.551689",
+            "title": "Surat Al-Inshirah",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/094.mp3"
+        },
+        {
+            "file_name": "095.mp3",
+            "size": "540800",
+            "bitrate": "130583",
+            "duration": "33.131256",
+            "title": "Surat At-Tin",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/095.mp3"
+        },
+        {
+            "file_name": "096.mp3",
+            "size": "1147008",
+            "bitrate": "129129",
+            "duration": "71.061067",
+            "title": "Surat Al-Alaq",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/096.mp3"
+        },
+        {
+            "file_name": "097.mp3",
+            "size": "436352",
+            "bitrate": "130717",
+            "duration": "26.705125",
+            "title": "Surat Al-Qadr",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/097.mp3"
+        },
+        {
+            "file_name": "098.mp3",
+            "size": "1298560",
+            "bitrate": "129063",
+            "duration": "80.491256",
+            "title": "Surat Al-Bayyina",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/098.mp3"
+        },
+        {
+            "file_name": "099.mp3",
+            "size": "540800",
+            "bitrate": "130378",
+            "duration": "33.183500",
+            "title": "Surat Az-Zalzala",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/099.mp3"
+        },
+        {
+            "file_name": "100.mp3",
+            "size": "749696",
+            "bitrate": "129838",
+            "duration": "46.192500",
+            "title": "Surat Al-Adiyat",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/100.mp3"
+        },
+        {
+            "file_name": "101.mp3",
+            "size": "546944",
+            "bitrate": "130218",
+            "duration": "33.601500",
+            "title": "Surat Al-Qaria",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/101.mp3"
+        },
+        {
+            "file_name": "102.mp3",
+            "size": "651392",
+            "bitrate": "130103",
+            "duration": "40.053689",
+            "title": "Surat At-Takathur",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/102.mp3"
+        },
+        {
+            "file_name": "103.mp3",
+            "size": "260224",
+            "bitrate": "133421",
+            "duration": "15.603125",
+            "title": "Surat Al-Asr",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/103.mp3"
+        },
+        {
+            "file_name": "104.mp3",
+            "size": "483456",
+            "bitrate": "130412",
+            "duration": "29.657000",
+            "title": "Surat Al-Humaza",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/104.mp3"
+        },
+        {
+            "file_name": "105.mp3",
+            "size": "387200",
+            "bitrate": "131273",
+            "duration": "23.596567",
+            "title": "Surat Al-Fil",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/105.mp3"
+        },
+        {
+            "file_name": "106.mp3",
+            "size": "321664",
+            "bitrate": "131996",
+            "duration": "19.495378",
+            "title": "Surat Quraish",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/106.mp3"
+        },
+        {
+            "file_name": "107.mp3",
+            "size": "491648",
+            "bitrate": "130439",
+            "duration": "30.153313",
+            "title": "Surat Al-Maun",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/107.mp3"
+        },
+        {
+            "file_name": "108.mp3",
+            "size": "174208",
+            "bitrate": "135993",
+            "duration": "10.248000",
+            "title": "Surat Al-Kauther",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/108.mp3"
+        },
+        {
+            "file_name": "109.mp3",
+            "size": "352384",
+            "bitrate": "132040",
+            "duration": "21.350067",
+            "title": "Surat Al-Kafiroon",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/109.mp3"
+        },
+        {
+            "file_name": "110.mp3",
+            "size": "336000",
+            "bitrate": "131534",
+            "duration": "20.435756",
+            "title": "Surat An-Nasr",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/110.mp3"
+        },
+        {
+            "file_name": "111.mp3",
+            "size": "360576",
+            "bitrate": "131568",
+            "duration": "21.924756",
+            "title": "Surat Al-Masadd",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/111.mp3"
+        },
+        {
+            "file_name": "112.mp3",
+            "size": "182400",
+            "bitrate": "134827",
+            "duration": "10.822689",
+            "title": "Surat Al-Ikhlas",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/112.mp3"
+        },
+        {
+            "file_name": "113.mp3",
+            "size": "311424",
+            "bitrate": "132223",
+            "duration": "18.842313",
+            "title": "Surat Al-Falaq",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/113.mp3"
+        },
+        {
+            "file_name": "114.mp3",
+            "size": "432256",
+            "bitrate": "131157",
+            "duration": "26.365567",
+            "title": "Surat An-Nas",
+            "link": "https://download.quranicaudio.com/quran/abdulazeez_al-ahmad/114.mp3"
+        }
+    ]
+}

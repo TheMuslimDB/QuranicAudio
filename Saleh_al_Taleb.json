@@ -1,0 +1,263 @@
+{
+    "id": 35,
+    "name": "Saleh al Taleb",
+    "arabicName": "\u0635\u0627\u0644\u062d \u0622\u0644 \u0637\u0627\u0644\u0628",
+    "surahs": [
+        {
+            "file_name": "001.mp3",
+            "size": "1263744",
+            "bitrate": "128989",
+            "duration": "78.377938",
+            "title": "Surat Al-Fatiha",
+            "link": "https://download.quranicaudio.com/quran/saleh_al_taleb/001.mp3"
+        },
+        {
+            "file_name": "025.mp3",
+            "size": "14086272",
+            "bitrate": "128082",
+            "duration": "879.825878",
+            "title": "Surat Al-Furqan",
+            "link": "https://download.quranicaudio.com/quran/saleh_al_taleb/025.mp3"
+        },
+        {
+            "file_name": "034.mp3",
+            "size": "13430912",
+            "bitrate": "128083",
+            "duration": "838.881689",
+            "title": "Surat Saba",
+            "link": "https://download.quranicaudio.com/quran/saleh_al_taleb/034.mp3"
+        },
+        {
+            "file_name": "038.mp3",
+            "size": "10989696",
+            "bitrate": "128116",
+            "duration": "686.233625",
+            "title": "Surat Sad",
+            "link": "https://download.quranicaudio.com/quran/saleh_al_taleb/038.mp3"
+        },
+        {
+            "file_name": "039.mp3",
+            "size": "17913984",
+            "bitrate": "128074",
+            "duration": "1118.975378",
+            "title": "Surat Az-Zumar",
+            "link": "https://download.quranicaudio.com/quran/saleh_al_taleb/039.mp3"
+        },
+        {
+            "file_name": "044.mp3",
+            "size": "5804160",
+            "bitrate": "128226",
+            "duration": "362.120378",
+            "title": "Surat Ad-Dukhan",
+            "link": "https://download.quranicaudio.com/quran/saleh_al_taleb/044.mp3"
+        },
+        {
+            "file_name": "045.mp3",
+            "size": "7979136",
+            "bitrate": "128162",
+            "duration": "498.062378",
+            "title": "Surat Al-Jathiya",
+            "link": "https://download.quranicaudio.com/quran/saleh_al_taleb/045.mp3"
+        },
+        {
+            "file_name": "046.mp3",
+            "size": "10125440",
+            "bitrate": "128138",
+            "duration": "632.153938",
+            "title": "Surat Al-Ahqaf",
+            "link": "https://download.quranicaudio.com/quran/saleh_al_taleb/046.mp3"
+        },
+        {
+            "file_name": "047.mp3",
+            "size": "8665216",
+            "bitrate": "128139",
+            "duration": "540.987313",
+            "title": "Surat Muhammad",
+            "link": "https://download.quranicaudio.com/quran/saleh_al_taleb/047.mp3"
+        },
+        {
+            "file_name": "055.mp3",
+            "size": "7141504",
+            "bitrate": "128191",
+            "duration": "445.676756",
+            "title": "Surat Ar-Rahman",
+            "link": "https://download.quranicaudio.com/quran/saleh_al_taleb/055.mp3"
+        },
+        {
+            "file_name": "056.mp3",
+            "size": "7094400",
+            "bitrate": "128163",
+            "duration": "442.835938",
+            "title": "Surat Al-Waqia",
+            "link": "https://download.quranicaudio.com/quran/saleh_al_taleb/056.mp3"
+        },
+        {
+            "file_name": "057.mp3",
+            "size": "9035904",
+            "bitrate": "128133",
+            "duration": "564.156878",
+            "title": "Surat Al-Hadid",
+            "link": "https://download.quranicaudio.com/quran/saleh_al_taleb/057.mp3"
+        },
+        {
+            "file_name": "058.mp3",
+            "size": "7424128",
+            "bitrate": "128160",
+            "duration": "463.425313",
+            "title": "Surat Al-Mujadila",
+            "link": "https://download.quranicaudio.com/quran/saleh_al_taleb/058.mp3"
+        },
+        {
+            "file_name": "059.mp3",
+            "size": "7053440",
+            "bitrate": "128192",
+            "duration": "440.177567",
+            "title": "Surat Al-Hashr",
+            "link": "https://download.quranicaudio.com/quran/saleh_al_taleb/059.mp3"
+        },
+        {
+            "file_name": "060.mp3",
+            "size": "5681280",
+            "bitrate": "128234",
+            "duration": "354.431938",
+            "title": "Surat Al-Mumtahina",
+            "link": "https://download.quranicaudio.com/quran/saleh_al_taleb/060.mp3"
+        },
+        {
+            "file_name": "061.mp3",
+            "size": "3553408",
+            "bitrate": "128377",
+            "duration": "221.435000",
+            "title": "Surat As-Saff",
+            "link": "https://download.quranicaudio.com/quran/saleh_al_taleb/061.mp3"
+        },
+        {
+            "file_name": "070.mp3",
+            "size": "3741824",
+            "bitrate": "128327",
+            "duration": "233.267378",
+            "title": "Surat Al-Maarij",
+            "link": "https://download.quranicaudio.com/quran/saleh_al_taleb/070.mp3"
+        },
+        {
+            "file_name": "072.mp3",
+            "size": "3946624",
+            "bitrate": "128352",
+            "duration": "245.985878",
+            "title": "Surat Al-Jinn",
+            "link": "https://download.quranicaudio.com/quran/saleh_al_taleb/072.mp3"
+        },
+        {
+            "file_name": "073.mp3",
+            "size": "3080320",
+            "bitrate": "128426",
+            "duration": "191.880125",
+            "title": "Surat Al-Muzzammil",
+            "link": "https://download.quranicaudio.com/quran/saleh_al_taleb/073.mp3"
+        },
+        {
+            "file_name": "074.mp3",
+            "size": "3754112",
+            "bitrate": "128375",
+            "duration": "233.945000",
+            "title": "Surat Al-Muddaththir",
+            "link": "https://download.quranicaudio.com/quran/saleh_al_taleb/074.mp3"
+        },
+        {
+            "file_name": "075.mp3",
+            "size": "2406528",
+            "bitrate": "128573",
+            "duration": "149.737067",
+            "title": "Surat Al-Qiyama",
+            "link": "https://download.quranicaudio.com/quran/saleh_al_taleb/075.mp3"
+        },
+        {
+            "file_name": "076.mp3",
+            "size": "3850368",
+            "bitrate": "128350",
+            "duration": "239.991500",
+            "title": "Surat Al-Insan",
+            "link": "https://download.quranicaudio.com/quran/saleh_al_taleb/076.mp3"
+        },
+        {
+            "file_name": "077.mp3",
+            "size": "3268736",
+            "bitrate": "128432",
+            "duration": "203.608256",
+            "title": "Surat Al-Mursalat",
+            "link": "https://download.quranicaudio.com/quran/saleh_al_taleb/077.mp3"
+        },
+        {
+            "file_name": "078.mp3",
+            "size": "3260544",
+            "bitrate": "128422",
+            "duration": "203.113067",
+            "title": "Surat An-Naba",
+            "link": "https://download.quranicaudio.com/quran/saleh_al_taleb/078.mp3"
+        },
+        {
+            "file_name": "079.mp3",
+            "size": "2990208",
+            "bitrate": "128438",
+            "duration": "186.250625",
+            "title": "Surat An-Naziat",
+            "link": "https://download.quranicaudio.com/quran/saleh_al_taleb/079.mp3"
+        },
+        {
+            "file_name": "080.mp3",
+            "size": "2400384",
+            "bitrate": "128513",
+            "duration": "149.424313",
+            "title": "Surat Abasa",
+            "link": "https://download.quranicaudio.com/quran/saleh_al_taleb/080.mp3"
+        },
+        {
+            "file_name": "081.mp3",
+            "size": "1742976",
+            "bitrate": "128816",
+            "duration": "108.245567",
+            "title": "Surat At-Takwir",
+            "link": "https://download.quranicaudio.com/quran/saleh_al_taleb/081.mp3"
+        },
+        {
+            "file_name": "082.mp3",
+            "size": "1323136",
+            "bitrate": "128962",
+            "duration": "82.078813",
+            "title": "Surat Al-Infitar",
+            "link": "https://download.quranicaudio.com/quran/saleh_al_taleb/082.mp3"
+        },
+        {
+            "file_name": "083.mp3",
+            "size": "2871424",
+            "bitrate": "128440",
+            "duration": "178.848878",
+            "title": "Surat Al-Mutaffifin",
+            "link": "https://download.quranicaudio.com/quran/saleh_al_taleb/083.mp3"
+        },
+        {
+            "file_name": "084.mp3",
+            "size": "1710208",
+            "bitrate": "128782",
+            "duration": "106.238756",
+            "title": "Surat Al-Inshiqaq",
+            "link": "https://download.quranicaudio.com/quran/saleh_al_taleb/084.mp3"
+        },
+        {
+            "file_name": "085.mp3",
+            "size": "1812608",
+            "bitrate": "128724",
+            "duration": "112.650125",
+            "title": "Surat Al-Burooj",
+            "link": "https://download.quranicaudio.com/quran/saleh_al_taleb/085.mp3"
+        },
+        {
+            "file_name": "086.mp3",
+            "size": "997504",
+            "bitrate": "129176",
+            "duration": "61.776125",
+            "title": "Surat At-Tariq",
+            "link": "https://download.quranicaudio.com/quran/saleh_al_taleb/086.mp3"
+        }
+    ]
+}
